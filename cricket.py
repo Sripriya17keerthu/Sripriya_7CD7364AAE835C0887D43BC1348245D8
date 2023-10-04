@@ -1,4 +1,4 @@
-# Define the base class Player
+# Define the base class Player# Define the base class Player
 class Player:
   def play(self):
     print("The player is playing cricket.")
@@ -19,4 +19,4 @@ bowler = Bowler()
 
 #call the play() method for each object
 batsman.play()
-bowler.play(
+bowler.play()
